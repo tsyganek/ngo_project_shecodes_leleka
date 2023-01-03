@@ -1,0 +1,10 @@
+:root{
+    --main-font-family: 'Source Sans Pro', sans-serif;
+    --headline-font-family: 'Vollkorn', serif;
+    --leleka-blue: #00acf1;
+    --leleka_yellow: #ffde13;
+}
+
+h1{
+    font-family: var(--headline-font-family);
+}
