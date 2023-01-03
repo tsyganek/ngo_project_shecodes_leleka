@@ -8,3 +8,7 @@
 h1{
     font-family: var(--headline-font-family);
 }
+
+ul{
+    list-style: none;
+}
