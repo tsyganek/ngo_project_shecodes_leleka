@@ -11,13 +11,21 @@ html{
     font-family: var(--main-font-family);
 }
 
-h1, h2, h3{
+section{
+    padding: 30px;
+}
+
+h1, h2{
     font-family: var(--headline-font-family);
     line-height: 2;
 }
 
 h2{
     font-size: 40px;
+}
+
+h3{
+    font-size: 20px;
 }
 
 ul{
@@ -38,3 +46,12 @@ svg{
     width: 50%;
     margin: 10px auto;
 }
+
+/* general */
+
+.yellow {
+    background-color: var(--leleka_yellow);
+}
+
+.blue{
+    background-color: var(--leleka-blue);}
