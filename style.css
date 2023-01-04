@@ -5,7 +5,13 @@
     --leleka_yellow: #ffde13;
 }
 
-h1{
+html{
+    text-align: center;
+    margin: 0 auto;
+    font-family: var(--main-font-family);
+}
+
+h1, h2, h3{
     font-family: var(--headline-font-family);
 }
 
