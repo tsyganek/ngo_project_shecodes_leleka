@@ -32,6 +32,15 @@ ul{
     list-style: none;
 }
 
+/* hero section */
+
+.hero{
+    background-image: url(./images/);
+    background-repeat: no-repeat;
+    background-size: contain;}
+
+/* team section */
+
 svg{
     fill: grey;
     width: 20px;
