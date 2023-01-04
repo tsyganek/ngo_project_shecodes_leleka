@@ -13,6 +13,11 @@ html{
 
 h1, h2, h3{
     font-family: var(--headline-font-family);
+    line-height: 2;
+}
+
+h2{
+    font-size: 40px;
 }
 
 ul{
@@ -20,5 +25,16 @@ ul{
 }
 
 svg{
-    fill: black;
+    fill: grey;
+    width: 20px;
+    height: 20px;
+}
+
+.team-member-portrait{
+    width: 200px;
+}
+
+.social-media-container{
+    width: 50%;
+    margin: 10px auto;
 }
